@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+.space-btowen{
+    justify-content: space-between;
+}
+.btn-primary{
+    background-color: chocolate;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 800;
+    color: white;
+}
+.md-container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+.g-4{
+    gap: 16px;
+}
+
+li{
+    list-style: none;
+}
+li > a{
+    text-decoration: none;
+}
